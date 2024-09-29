@@ -12,3 +12,4 @@ Robotic systems can learn tasks from human demonstrations using videos captured 
 
   _Experimental Results_
 https://www.youtube.com/watch?v=eaGPNka6EKo
+https://github.com/dharmi-123/Subaction-learning-from-V-DNN-Model/blob/main/R_task_1-ezgif.com-video-to-gif-converter.gif
