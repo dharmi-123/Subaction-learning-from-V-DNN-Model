@@ -1,6 +1,6 @@
 # Learn to Identify Fundamental Sub-Tasks from One-Shot Video Demonstration of a Complete Task for Robot Execution #
 
-**Introduction**
+**Introduction:**
 Robotic systems can significantly benefit from learning tasks through human demonstrations, especially when using videos captured by vision sensors. This capability is particularly important in improving complex, multi-step applications. Traditional methods often struggle to handle intricate patterns and tasks that span long time horizons, making it difficult to achieve precise task execution. However, classifying these complex tasks into manageable sub-tasks plays a critical role in fields such as computer vision, autonomous systems, and human-robot interaction. In the context of healthcare, where human-robot collaboration holds transformative potential, programming robots to perform complex and dynamic tasks remains a significant challenge. To address this, we propose a novel approach—a hybrid variance-based deep neural network (Hybrid V-DNN). Our model leverages transfer learning, incorporating a modified VGG-16 network to achieve enhanced performance. This hybrid model is designed to capture pixel-level variance in video frames and track hand movements, allowing for the segmentation of human actions into distinct sub-tasks such as reaching, grasping, placing, and retracting. By focusing on both pixel variance and human hand dynamics, the Hybrid V-DNN improves task segmentation accuracy, reduces computational overhead, and supports real-time processing. This approach not only enhances the robot’s ability to learn and execute dynamic tasks with greater precision but also opens up possibilities for more efficient, real-time robotic assistance in healthcare and other domains involving complex tasks.
 
 ## Preprocessing steps followed by our approach ##
@@ -12,10 +12,14 @@ Robotic systems can significantly benefit from learning tasks through human demo
 
   ## Experimental Results ##
 To see the experimental results, please take a look at the given [YouTube link](https://www.youtube.com/watch?v=eaGPNka6EKo).
+
 The 5 tasks that were mentioned in the paper can be seen below with human demonstration and robot execution one by one.
+
 ![task1](https://github.com/user-attachments/assets/85346aac-1852-4db2-b547-fdfe5a6d632c)
 ![task2](https://github.com/user-attachments/assets/e9e55308-4c2b-4d27-81c6-4b49279195f7)
 ![task 3](https://github.com/user-attachments/assets/a1c55923-b190-4c88-8617-ec2ac90d9805)
 ![task 4](https://github.com/user-attachments/assets/6c6a5d5f-d9a7-4697-95b6-cb7fbe821f5c)
+![task 5](https://github.com/user-attachments/assets/bd0036d7-af80-442e-ad61-b7492db0170d)
+
 
 
