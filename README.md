@@ -3,7 +3,7 @@
 ## Introduction: ##
 Robotic systems can significantly benefit from learning tasks through human demonstrations, especially when using videos captured by vision sensors. This capability is particularly important in improving complex, multi-step applications. Traditional methods often struggle to handle intricate patterns and tasks that span long time horizons, making it difficult to achieve precise task execution. However, classifying these complex tasks into manageable sub-tasks plays a critical role in fields such as computer vision, autonomous systems, and human-robot interaction. In the context of healthcare, where human-robot collaboration holds transformative potential, programming robots to perform complex and dynamic tasks remains a significant challenge. To address this, we propose a novel approach—a hybrid variance-based deep neural network (Hybrid V-DNN). Our model leverages transfer learning, incorporating a modified VGG-16 network to achieve enhanced performance. This hybrid model is designed to capture pixel-level variance in video frames and track hand movements, allowing for the segmentation of human actions into distinct sub-tasks such as reaching, grasping, placing, and retracting. By focusing on both pixel variance and human hand dynamics, the Hybrid V-DNN improves task segmentation accuracy, reduces computational overhead, and supports real-time processing. This approach not only enhances the robot’s ability to learn and execute dynamic tasks with greater precision but also opens up possibilities for more efficient, real-time robotic assistance in healthcare and other domains involving complex tasks.
 
-## Preprocessing steps followed by our approach ##
+## Preprocessing steps followed by our approach to create a custom dataset ##
 ![Preprosessing_flowchart](https://github.com/user-attachments/assets/f0e9d423-bab7-498a-a0c8-d448a4567372)
 
 ## Workflow for hybrid sub-task identification approach from any video demonstration. (HM represents hand movement.) ##
@@ -13,6 +13,10 @@ Robotic systems can significantly benefit from learning tasks through human demo
 The architecture of the V-DNN model is shown below.
 
 ![V-DNN_Model_architecture](https://github.com/user-attachments/assets/1e24c4d2-bf79-4bc5-9706-03340ab826c6)
+
+**Hand Movement Recognition:**
+
+![Hand_moves](https://github.com/user-attachments/assets/487d8ac1-4e36-4fd3-aebe-2bef4c0e46d3)
 
 
 ## Experimental Results ##
