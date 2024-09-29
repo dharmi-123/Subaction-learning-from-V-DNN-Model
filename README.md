@@ -15,4 +15,5 @@ https://www.youtube.com/watch?v=eaGPNka6EKo
 
 
 ![Sub-task learning GIF](https://github.com/dharmi-123/Subaction-learning-from-V-DNN-Model/blob/main/R_task_1-ezgif.com-video-to-gif-converter.gif)
+[Watch the video](https://github.com/dharmi-123/Subaction-learning-from-V-DNN-Model/blob/main/task%201.mp4)
 
