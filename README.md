@@ -10,10 +10,8 @@ Robotic systems can significantly benefit from learning tasks through human demo
 ![Screenshot 2024-09-19 135630](https://github.com/user-attachments/assets/073c79a2-3160-452b-ae6b-d64a0fa7cc43)
 
 
-  _Experimental Results_
-https://www.youtube.com/watch?v=eaGPNka6EKo
+  ## Experimental Results ##
+To see the experimental results, please refer to the given [YouTube link](https://www.youtube.com/watch?v=eaGPNka6EKo).
 
 
 ![Sub-task learning GIF](https://github.com/dharmi-123/Subaction-learning-from-V-DNN-Model/blob/main/R_task_1-ezgif.com-video-to-gif-converter.gif)
-[Watch the video](https://github.com/dharmi-123/Subaction-learning-from-V-DNN-Model/blob/main/task%201.mp4)
-
