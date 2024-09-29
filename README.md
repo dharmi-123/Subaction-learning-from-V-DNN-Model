@@ -12,6 +12,7 @@ Robotic systems can significantly benefit from learning tasks through human demo
 
   ## Experimental Results ##
 To see the experimental results, please take a look at the given [YouTube link](https://www.youtube.com/watch?v=eaGPNka6EKo).
+The 5 tasks that were mentioned in the paper can be seen below with human demonstration and robot execution one by one.
 ![task1](https://github.com/user-attachments/assets/85346aac-1852-4db2-b547-fdfe5a6d632c)
 ![task2](https://github.com/user-attachments/assets/e9e55308-4c2b-4d27-81c6-4b49279195f7)
 ![task 3](https://github.com/user-attachments/assets/a1c55923-b190-4c88-8617-ec2ac90d9805)
