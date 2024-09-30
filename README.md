@@ -40,7 +40,9 @@ The V-DNN model accuracy and graph can be seen below.
 ![Model_loss_graph](https://github.com/user-attachments/assets/c3e4d493-7413-4213-9953-825813d006a5)
 
 
-**The Kinova Gen3 robotic manipulator used in our approach for task execution**
+**The Kinova Gen3 robotic manipulator used in our approach for task execution:**
+
+Kinova Gen3 robotic manipulator used in our approach to execute every task after finding the subtask labels from human demonstration.
 
 ![kinova](https://github.com/user-attachments/assets/cea28911-6c61-4d6b-b3bd-a6711f0f5a02)
 
